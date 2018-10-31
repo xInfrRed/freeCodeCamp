@@ -91,7 +91,7 @@ Ne face plăcere ajutorul tău în îmbunătățirea calității acestor traduce
 
 Platforma noastră de învățare rulează pe un stack JavaScript modern. Dispune de diverse componente, instrumente și biblioteci, incluzând dar fără a se limita la Node.js, MongoDB, LoopBack, OAuth 2.0, React, Gatsby, Webpack și multe altele.
 
-In linii mari,
+În linii mari,
 
 - Avem un server API bazat pe Node.js.
 - Un set de aplicații client bazate pe React.
@@ -127,7 +127,7 @@ Nu ezita să ceri ajutor în:
 - [Categoria "Colaboratori" a forumul nostru public](https://www.freecodecamp.org/forum/c/contributors)
 - [Camera/room noastră de discuții publice pe Gitter](https://gitter.im/FreeCodeCamp/Contributors)
 
-Suntem bucuroși să te ajutăm să contribuiești la oricare dintre subiectele la care dorești să lucrezi. Asigură-te că ai căutat intrebarea ta înainte de a posta una nouă. Fii politicos și răbdător. Voluntarii și moderatorii noștri din comunitate sunt în permanență în imprejurimi pentru a te călăuzi prin intrebările tale.
+Suntem bucuroși să te ajutăm să contribui la oricare dintre subiectele la care dorești să lucrezi. Asigură-te că ai căutat intrebarea ta înainte de a posta una nouă. Fii politicos și răbdător. Voluntarii și moderatorii noștri din comunitate sunt în permanență în imprejurimi pentru a te călăuzi prin intrebările tale.
 
 **Sunt nou în GitHub și în Open Source în general:**
 
